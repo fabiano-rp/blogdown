@@ -35,3 +35,11 @@ usethis::use_git()
 
 # 7) Criar um repositório no GitHub conectado à este projeto
 usethis::use_github()
+
+
+
+
+
+# após reiniciar o r
+
+blogdown::serve_site()
