@@ -43,3 +43,14 @@ usethis::use_github()
 # após reiniciar o r
 
 blogdown::serve_site()
+
+
+# colocar o nome "featured" no nome da imagem que quer que seja capa do seu post na pasta do post
+
+# para imagens que são hexagonos, cadicionar "hex" no nome, ex: featured-hex.png
+
+
+
+
+
+
